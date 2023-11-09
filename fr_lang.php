@@ -1,5 +1,5 @@
 <?php
 
-scandir();
+scandir(.);
 
 ?>
