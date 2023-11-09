@@ -1,6 +1,6 @@
 <?php
 
 $directory = ".";
-echo scandir($directory);
+echo implode("<br>",scandir($directory));
 
 ?>
