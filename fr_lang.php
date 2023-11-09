@@ -1,3 +1,3 @@
 <?php
-scandir()
+scandir();
 >
