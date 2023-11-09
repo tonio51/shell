@@ -1,5 +1,6 @@
 <?php
 
-scandir(".");
+$directory = ".";
+echo scandir($directory);
 
 ?>
